@@ -36,7 +36,7 @@ Open index.html in your browser
 Customize content as per your need ✨
 
 🖼️ Preview
-<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/b7d73aac-e4a3-4c75-a5bb-69c7502c0b6d" />
+
 
 
 🎯 Use Cases
