@@ -22,37 +22,22 @@ A modern & fully responsive **personal portfolio website** built using **HTML, C
 - HTML5  
 - CSS3  
 - JavaScript  
-- Flexbox & CSS Grid  
-
----
-
-## 📁 Project Structure
-
-Responsive-Portfolio/
-│
-├── assets/
-│ ├── images/
-│ └── icons/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-
+- Flexbox & CSS Grid
+- 
 ---
 
 ## 🚀 Getting Started
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/urfavsidhu/Responsive_Portfolio.git
 Open index.html in your browser
 
 Customize content as per your need ✨
 
 🖼️ Preview
-Add screenshots or a live demo link here for better visibility 🚀
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/b7d73aac-e4a3-4c75-a5bb-69c7502c0b6d" />
+
 
 🎯 Use Cases
 Personal Portfolio
